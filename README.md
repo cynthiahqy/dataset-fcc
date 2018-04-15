@@ -10,7 +10,7 @@ No promises, but you might find things I have made/tweaked/broke, and some usefu
 
 Everything below is a work in progress. 
 
-Maybe follow me on twitter if you want to know when a new readable chunks is completed: @cynthiahqy
+Maybe follow me on twitter if you want to know when a new readable chunks is completed: [@cynthiahqy](https://twitter.com/cynthiahqy)
 
 ## [The Journey so Far](journal.md)
 
