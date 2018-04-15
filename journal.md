@@ -10,14 +10,16 @@ My assigned task was to take each scanned application form for licence transfers
 Let me detail a few of the problems I encountered. 
 
 The archived forms were what can only be described as red tape standard. There was missing information, inconsistencies, changing formats, and lots of redundancy. 
-    - Some applications had missing pages, some applications probably weren't archived at all. Filings listed party A to party B, and then the next filing in the BATCH would list party C to party D. 
-    - The format of the forms changed every few years -- fields were added, others were renamed or disappeared. The requirements for supporting documentation differed from case to case, and year to year.
-    - The forms were designed for single licence transfers, not multi-licence transactions. If party A was buying multiple licences from party B, they still had to file individual applications for each licence. This meant a whole lot of redundant paper work -- all the supporting documents were the same, the party details were the same, just a few characters in the entire application would be different. 
+
+- Some applications had missing pages, some applications probably weren't archived at all. Filings listed party A to party B, and then the next filing in the BATCH would list party C to party D. 
+- The format of the forms changed every few years -- fields were added, others were renamed or disappeared. The requirements for supporting documentation differed from case to case, and year to year.
+- The forms were designed for single licence transfers, not multi-licence transactions. If party A was buying multiple licences from party B, they still had to file individual applications for each licence. This meant a whole lot of redundant paper work -- all the supporting documents were the same, the party details were the same, just a few characters in the entire application would be different. 
 
 On top of the forms making no sense, the scanned files lacked consistent structure, and image quality was often poor. 
-    - Files in BATCH 1 were named differently to those BATCH 2, and then those might be different to BATCH 3. On top of that, I couldn't work out if each CALLSIGN/ folder was a **complete set** for that licence number. 
-    - Some of the microfiche were so blurry I just made random guesses between '5 or S'.
-    - The folder structure meant I was progressing according to CALLSIGN/ not chronological date. As a result, I coudn't identify multi-licence transactions, or cluster forms form the same time period to uncover patterns.
+
+- Files in BATCH 1 were named differently to those BATCH 2, and then those might be different to BATCH 3. On top of that, I couldn't work out if each CALLSIGN/ folder was a **complete set** for that licence number. 
+- Some of the microfiche were so blurry I just made random guesses between '5 or S'.
+- The folder structure meant I was progressing according to CALLSIGN/ not chronological date. As a result, I coudn't identify multi-licence transactions, or cluster forms form the same time period to uncover patterns.
 
 The upshot of these issues was that I had no references for whether I was doing useful work or not, or if I was making progress towards any tangible goal. It took time to work out a lot of these quirks, and once a lot of the data entry I had done became garbage. For example, in the beginning I was recording the first date I saw as the transaction date. It was how the .jpg files were named, so I figured it was good enough. Turns out that was a mistake. 
 
