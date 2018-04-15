@@ -1,1 +1,27 @@
-# ra-fcc
+# From Microfiche to Dataset?
+
+This is documentation of the triumphs and frustrations of swimming through government archives to wrangle out a dataset. It will include things I have made/tweaked/broke, and maybe some useful learnings for anyone else involved in creating custom datasets. 
+
+**TASK**: Take 26GB (and counting) of scanned microfiche documents (.jpg images), and extract dates, involved parties, and transaction details for every mobile spectrum license sale or transfer contained in these images.
+**PURPOSE**: The transactions extracted from the microfiche will form part of a larger chronology of mobile spectrum licence trading up to the present day. This larger history will be able illuminate the evolution of the mobile services market, which in turn will be useful for exploring a variety of economic ideas and econometric hypotheses. 
+
+All of the files below are works in progress. Maybe follow me on twitter if you want to know when a new readable chunks is completed: @cynthiahqy
+
+## [The Journey so Far](journal.md)
+
+A journal of things I've thought/did/learnt in chronological-ish order.   
+
+## [Process Snippets](experiments.ipynb)
+
+A (yet to be created) notebook documenting scripts, tools and code snippets I've written to do various things like:
+
+- file management
+- image transformation
+- progress tracking
+- logging data transformations
+- meta-tag and filter images before data encoding
+- explore the feasiblity of using optical character recognition (OCR) 
+
+## [Lessons for future data wrangling](learning.md)
+
+A summary list of things that I wish I'd known before trying to wrangle a dataset from the wild. The TL;DR version of my journal. 
