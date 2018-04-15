@@ -1,6 +1,6 @@
 # From Microfiche to Dataset?
 
-This is an attempt to document the triumphs and frustrations of wrangling a dataset from government (dead tree) archives. 
+This is an attempt to document the triumphs and frustrations of wrangling a dataset from [Federal Communication Commission](https://www.fcc.gov/) (dead tree captured on small film) archives. 
 
 No promises, but you might find things I have made/tweaked/broke, and some useful learnings for anyone else involved in creating custom datasets. 
 
@@ -29,4 +29,4 @@ A (yet to be created) notebook documenting scripts, tools and code snippets I've
 
 ## [Lessons for future data wrangling](learnings.md)
 
-A summary list of things that I wish I'd known before trying to wrangle a dataset from the wild. The TL;DR version of my journal. 
+A summary of things that I wish I'd known before trying to wrangle a dataset from the wild. The TL;DR version of my journal. 
