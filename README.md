@@ -6,7 +6,7 @@ No promises, but you might find things I have made/tweaked/broke, and some usefu
 
 **TASK**: Take 26GB (and counting) of scanned microfiche documents (.jpg images), and extract dates, involved parties, and transaction details for every mobile spectrum license sale or transfer contained in these images.
 
-**PURPOSE**: The transactions extracted from the microfiche will form part of a larger chronology of mobile spectrum licence trading up to the present day. This larger history will be able illuminate the evolution of the mobile services market, which in turn will be useful for exploring a variety of economic ideas and econometric hypotheses. 
+**PURPOSE**: The transactions extracted from the microfiche will form part of a larger chronology of mobile spectrum licence trading up to the present day. This history is of particular interest in reflecting on Ronald Coase's seminal article from 1959 [The Federal Communications Commission](http://www.jstor.org/stable/724927), and to examine the allocative efficiency of auctions and lotteries.
 
 Everything below is a work in progress. 
 
