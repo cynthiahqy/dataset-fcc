@@ -12,8 +12,8 @@ Let me detail a few of the problems I encountered.
 The archived forms were what can only be described as red tape standard. There was missing information, inconsistencies, changing formats, and lots of redundancy. 
 
 - Some applications had missing pages, some applications probably weren't archived at all. Filings listed party A to party B, and then the next filing in the BATCH would list party C to party D. 
-- The format of the forms changed every few years -- fields were added, others were renamed or disappeared. The requirements for supporting documentation differed from case to case, and year to year.
-- The forms were designed for single licence transfers, not multi-licence transactions. If party A was buying multiple licences from party B, they still had to file individual applications for each licence. This meant a whole lot of redundant paper work -- all the supporting documents were the same, the party details were the same, just a few characters in the entire application would be different. 
+- The format of the forms changed every few years. Fields were added, others were renamed or disappeared. The requirements for supporting documentation differed from case to case, and year to year.
+- The forms were designed for single licence transfers, not multi-licence transactions. If party A was buying multiple licences from party B, they still had to file individual applications for each licence. This meant a whole lot of redundant paper work. All the supporting documents and involved party details were the same, just a few characters in the entire application differed. 
 
 On top of the forms making no sense, the scanned files lacked consistent structure, and image quality was often poor. 
 
@@ -81,7 +81,7 @@ Eventually I figured out I need to do some reorganising.
 
 - fuzzy tagging with multiple people
 - arbitrary batches
-- parallel work streams
+- parallel work streams -- now up to BATCH 26 and counting. 
 
 
 
