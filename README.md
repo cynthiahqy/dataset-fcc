@@ -27,6 +27,6 @@ A (yet to be created) notebook documenting scripts, tools and code snippets I've
 - meta-tag and filter images before data encoding
 - explore the feasiblity of using optical character recognition (OCR) 
 
-## [Lessons for future data wrangling](learning.md)
+## [Lessons for future data wrangling](learnings.md)
 
 A summary list of things that I wish I'd known before trying to wrangle a dataset from the wild. The TL;DR version of my journal. 
