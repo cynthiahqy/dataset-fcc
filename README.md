@@ -1,20 +1,20 @@
 # From Microfiche to Dataset?
 
-This is an attempt to document the triumphs and frustrations of wrangling a dataset from [Federal Communication Commission](https://www.fcc.gov/) (dead tree captured on small film) archives. 
+This is an attempt to document the triumphs and frustrations of wrangling a dataset from [Federal Communication Commission](https://www.fcc.gov/) microfiche (dead tree captured on small film) archives. 
 
 No promises, but you might find things I have made/tweaked/broke, and some useful learnings for anyone else involved in creating custom datasets. 
 
 **TASK**: Take 26GB (and counting) of scanned microfiche documents (.jpg images), and extract dates, involved parties, and transaction details for every mobile spectrum license sale or transfer contained in these images.
 
-**PURPOSE**: The transactions extracted from the microfiche will form part of a larger chronology of mobile spectrum licence trading up to the present day. This history is of particular interest in reflecting on Ronald Coase's seminal article from 1959 [The Federal Communications Commission](http://www.jstor.org/stable/724927), and to examine the allocative efficiency of auctions and lotteries.
+**PURPOSE**: The transactions extracted from the microfiche will form part of a larger chronology of mobile spectrum licence trading up to the present day. This history is of particular interest in reflecting on Ronald Coase's seminal paper from 1959 [The Federal Communications Commission](http://www.jstor.org/stable/724927), and to examine the allocative efficiency of auctions and lotteries.
 
 Everything below is a work in progress. 
 
-Maybe follow me on twitter if you want to know when a new readable chunks is completed: [@cynthiahqy](https://twitter.com/cynthiahqy)
+Maybe follow me on twitter if you want to know when a new readable chunk is completed: [@cynthiahqy](https://twitter.com/cynthiahqy)
 
 ## [The Journey so Far](journal.md)
 
-A journal of things I've thought/did/learnt in chronological-ish order.   
+A journal of things I've thought/did/learnt, and problems/issues/complaints I've had, in chronological-ish order.   
 
 ## [Process Snippets](experiments.ipynb)
 
