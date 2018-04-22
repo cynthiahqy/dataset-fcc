@@ -16,9 +16,9 @@ Maybe follow me on twitter if you want to know when a new readable chunk is comp
 
 A journal of things I've thought/did/learnt, and problems/issues/complaints I've had, in chronological-ish order.   
 
-## [Process Snippets](experiments.ipynb)
+## [Process Snippets](transformations.html)
 
-A (yet to be created) notebook documenting scripts, tools and code snippets I've written to do various things like:
+A notebook documenting scripts, tools and code snippets I've written to do various things like:
 
 - file management
 - image transformation
