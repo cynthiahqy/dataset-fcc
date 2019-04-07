@@ -12,14 +12,14 @@ This is an attempt to document the triumphs and frustrations of wrangling a data
 
 A journal of things I've thought/did/learnt, and problems/issues/complaints I've had, in chronological-ish order.   
 
-## [Process Snippets]
+## Process Snippets
 
 Scripts, tools and code snippets for future reference:
 
 - [file management, image preprocessing in bash](transformations.ipynb)
-- [extracting lists of images based meta-tags for encoding]()
-- [optical character recognition using Tesseract, and attempts to improve image quality]()
-- [scraping FCC's Universal Licensing System using Selenium and BeautifulSoup in python]()
+- [extracting lists of images based meta-tags for encoding](https://github.com/cynthiahqy/dataset-fcc/tree/master/processes/list-extractions)
+- [optical character recognition using Tesseract, and attempts to improve image quality]
+- [scraping FCC's Universal Licensing System using Selenium and BeautifulSoup in python](https://github.com/cynthiahqy/uls-scraping)
 
 ## [Lessons for future data wrangling](learnings.md)
 
