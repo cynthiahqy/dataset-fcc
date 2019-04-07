@@ -16,11 +16,11 @@ A journal of things I've thought/did/learnt, and problems/issues/complaints I've
 
 Scripts, tools and code snippets for future reference:
 
-- [file management, image preprocessing in bash](transformations.ipynb)
-- [extracting lists of images based meta-tags for encoding](https://github.com/cynthiahqy/dataset-fcc/tree/master/processes/list-extractions)
-- [optical character recognition using Tesseract, and attempts to improve image quality]
+- [file management, image preprocessing in bash](/processes/pre-tagging)
+- [extracting lists of images based meta-tags for encoding](/processes/list-extractions)
+- [optical character recognition using Tesseract, and attempts to improve image quality](/processes/tesseract-imgqual)
 - [scraping FCC's Universal Licensing System using Selenium and BeautifulSoup in python](https://github.com/cynthiahqy/uls-scraping)
 
 ## [Lessons for future data wrangling](learnings.md)
 
-A summary of things that I wish I'd known before trying to wrangle a dataset from the wild. The TL;DR version of my journal. 
+A list of things that I wish I'd known before trying to wrangle a dataset from the wild. 
